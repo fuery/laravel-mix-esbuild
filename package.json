@@ -24,7 +24,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "esbuild-loader": "^2.14.0"
+    "esbuild-loader": "^4.1.0"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
